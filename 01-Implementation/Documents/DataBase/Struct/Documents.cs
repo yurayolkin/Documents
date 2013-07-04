@@ -50,17 +50,17 @@ namespace Documents.DataBase.Struct
         /// <summary>
         /// Gets or sets relation to categories table.
         /// </summary>
-        public int IdCategories { get; set; }
+        public Categories IdCategories { get; set; }
 
         /// <summary>
         /// Gets or sets relation to documents table.
         /// </summary>
-        public int IdDocumentType { get; set; }
+        public TypeDocument IdDocumentType { get; set; }
 
         /// <summary>
         /// Gets or sets relation to author table.
         /// </summary>
-        public int IdAuthor { get; set; }
+        public Author IdAuthor { get; set; }
 
         /// <summary>
         /// Gets or sets execute count documents.
