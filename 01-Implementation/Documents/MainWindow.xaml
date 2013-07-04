@@ -1,8 +1,8 @@
 ﻿<Window x:Class="Documents.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
+        Title="База даних документів. Версія 2.0" Height="350" Width="525">
+    <Grid Margin="0,0,-94,-65">
         
     </Grid>
 </Window>
