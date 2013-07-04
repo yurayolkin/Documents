@@ -61,6 +61,10 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DataBase\Struct\Author.cs" />
+    <Compile Include="DataBase\Struct\Categories.cs" />
+    <Compile Include="DataBase\Struct\Documents.cs" />
+    <Compile Include="DataBase\Struct\DocumentType.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
