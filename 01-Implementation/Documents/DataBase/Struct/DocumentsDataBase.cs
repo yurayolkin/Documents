@@ -15,6 +15,6 @@ namespace Documents.DataBase.Struct
 
         public DbSet<TypeDocument> TypeDocumentTable { get; set; }
 
-        public DbSet<Documents> DocumentsTable {get; set;}
+        public DbSet<Documents> DocumentsTable { get; set; }
     }
 }

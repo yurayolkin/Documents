@@ -20,7 +20,7 @@ namespace Documents.DataBase.Struct
         /// <summary>
         /// Gets or sets name of document.
         /// </summary>
-        public string Name {get; set;}
+        public string Name { get; set; }
 
         /// <summary>
         /// Gets or sets number document.

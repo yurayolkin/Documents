@@ -22,7 +22,7 @@ namespace Documents
     {
         public MainWindow()
         {
-            InitializeComponent();
+            this.InitializeComponent();
         }
     }
 }

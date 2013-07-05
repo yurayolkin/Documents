@@ -20,6 +20,6 @@ namespace Documents.DataBase.Struct
         /// <summary>
         /// Gets or sets categories name. 
         /// </summary>
-        public string Name {get; set;}
+        public string Name { get; set; }
     }
 }
